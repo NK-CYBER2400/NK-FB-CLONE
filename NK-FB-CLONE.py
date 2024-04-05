@@ -1,9 +1,3 @@
-#SC MAKED BY PARVEJ
-#Fuck PARVEJ HOSSEN
-#Dec By PARVEJ
-#PARVEJ Your Reyal Pappa
-#PARVEJ Kids Numbar 5
-
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
@@ -93,7 +87,7 @@ logo = ("""
 \033[1;92m══════════════════════════════════════════
 \033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
 \033[1;32m[-] AUTHOR    :\033[1;32m NK CYBER
-\033[1;32m[-] GITHUB    :\033[1;32m ROMAN-XXX
+\033[1;32m[-] GITHUB    :\033[1;32m NK-CYBER2400
 \033[1;32m[-] FACEBOOK  :\033[1;32m NK CYBER AN 2400
 \033[1;92m══════════════════════════════════════════
 
